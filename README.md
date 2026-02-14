@@ -78,7 +78,7 @@ Stay updated with the latest features, news, and releases:
 
 - **Instagram**: [@voidbornfr](https://www.instagram.com/voidbornfr/)
 - **GitHub**: [VoidBorn](https://github.com/voidbornfr)
-- **Other Websites**: [voidstream.space](https://voidstream.space)
+- **Other Websites**: [voidstream.space](https://voidstream.space) [voidanime.tech](https://voidanime.tech)
 
 ---
 
